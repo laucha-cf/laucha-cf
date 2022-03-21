@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @laucha-cf
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python and SQL
+- 💞️ I’m looking to collaborate on Proyects
+- 📫 How to reach me lautaropc2001@gmail.com, +54 3794803434, https://www.linkedin.com/in/lautaro-p%C3%A9rez-carmona-9022b71ab/
+
+<!---
+laucha-cf/laucha-cf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
