@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laucha-cf
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Big Data and Machine Learning
 - 💞️ I’m looking to collaborate on Proyects
 - 📫 How to reach me lautaropc2001@gmail.com, +54 3794803434, https://www.linkedin.com/in/lautaro-p%C3%A9rez-carmona-9022b71ab/
 
